@@ -13,4 +13,4 @@ y = subtract(33, 10)
 ```
 
 ### Contributors
-Siert
+Siert, Bob
